@@ -1,0 +1,1 @@
+{"uuid":"4a112a55-799f-4016-ba07-8587ec58b617","name":"AssigmentTamarin.baseui.BaseTestiFrame.cleanUp","description":"","start":1669359483635,"stop":1669359483748,"children":["00feddf4-11eb-4fb7-aae4-67996461077d"],"afters":[{"name":"cleanUp","status":"passed","stage":"finished","description":"","start":1669359483635,"stop":1669359483748}]}

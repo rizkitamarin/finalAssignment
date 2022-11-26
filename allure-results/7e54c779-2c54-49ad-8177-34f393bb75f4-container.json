@@ -1,0 +1,1 @@
+{"uuid":"7e54c779-2c54-49ad-8177-34f393bb75f4","name":"AssigmentTamarin.baseui.BaseTestiFrame.setUpSystemUnderTest","description":"","start":1669357768841,"stop":1669357782570,"children":["c0ad1a6e-7fe4-45c8-90fb-102ca1d555ba"],"befores":[{"name":"setUpSystemUnderTest","status":"passed","stage":"finished","description":"","start":1669357768842,"stop":1669357782569}]}
