@@ -7,6 +7,7 @@ created to complete final assignment
 - tugas 4: automate API sign up on staging builder `/src/test/java/AssignmentTamarin/run_automation/iFrameWebTest.java`
 - tugas 5: upload file to repo & add mas andro to collaborate
 - tugas 6: mobile automation video & file `testng-browserstack.zip & video-1872afc5578d509b372d47e7de274b942aadba72.mp4`
-- tugas 7: jmeter html report `to be continue`
+- tugas 7: jmeter html report `jmeter-reportHTML`
 
 DONE!!!!
+ARIGATOU GOZAIMASU.
